@@ -1,6 +1,6 @@
 package com.chainsys.day2;
 
-public class arithmetic2 {
+public class Arithmetic2 {
 
 	public static void main(String[] args) {
 	
